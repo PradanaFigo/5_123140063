@@ -165,7 +165,7 @@ Notes ↔ Favorites ↔ Profile
 Tambahkan screenshot aplikasi:
 
 * Profile Screen
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d7b17d9d-4ca3-4201-9c6b-0af79618e0a5" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5dddfc52-446f-40dc-b36d-d071bd73f01f" />
 
 * Notes Screen
   <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/bd32d303-8c89-4dad-abd8-32e418950aa7" />
