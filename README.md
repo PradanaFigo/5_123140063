@@ -3,7 +3,7 @@
 ## Identitas
 
 * **Nama:** Pradana Figo Ariasya
-* **NIM:** (isi NIM kamu)
+* **NIM:** 123140063
 * **Prodi:** Teknik Informatika
 * **Universitas:** Institut Teknologi Sumatera (ITERA)
 
@@ -165,9 +165,16 @@ Notes ↔ Favorites ↔ Profile
 Tambahkan screenshot aplikasi:
 
 * Profile Screen
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d7b17d9d-4ca3-4201-9c6b-0af79618e0a5" />
+
 * Notes Screen
+  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/bd32d303-8c89-4dad-abd8-32e418950aa7" />
+
 * Detail Screen
+  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/55a14398-f503-43f2-beb0-dffdc68310c1" />
+
 * Favorites Screen
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9358c40b-d00b-49d8-bc49-16e2e86cf29b" />
 
 ---
 
