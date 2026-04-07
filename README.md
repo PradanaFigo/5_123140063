@@ -1,6 +1,6 @@
-# 📱 MyProfile App + Notes Feature
+#  MyProfile App + Notes Feature
 
-## 👨‍💻 Identitas
+## Identitas
 
 * **Nama:** Pradana Figo Ariasya
 * **NIM:** (isi NIM kamu)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Deskripsi Aplikasi
+## Deskripsi Aplikasi
 
 Aplikasi **MyProfile App** merupakan aplikasi berbasis **Kotlin Multiplatform (Compose Multiplatform)** yang menampilkan profil pengguna serta fitur tambahan berupa manajemen catatan (Notes).
 
@@ -22,7 +22,7 @@ Aplikasi ini dikembangkan sebagai tugas praktikum dengan fokus pada:
 
 ---
 
-## 🎯 Fitur Utama
+## Fitur Utama
 
 ###  Profile Screen
 
@@ -38,7 +38,7 @@ Aplikasi ini dikembangkan sebagai tugas praktikum dengan fokus pada:
 * Menampilkan daftar catatan
 * UI berbentuk card (clean & modern)
 * Klik item → menuju detail
-* Bisa menandai sebagai favorite ❤
+* Bisa menandai sebagai favorite 
 
 ---
 
@@ -124,7 +124,7 @@ composeApp/
 
 ---
 
-## 🔧 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * Kotlin Multiplatform
 * Jetpack Compose / Compose Multiplatform
