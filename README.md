@@ -168,10 +168,10 @@ Tambahkan screenshot aplikasi:
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5dddfc52-446f-40dc-b36d-d071bd73f01f" />
 
 * Notes Screen
-  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/bd32d303-8c89-4dad-abd8-32e418950aa7" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/bd32d303-8c89-4dad-abd8-32e418950aa7" />
 
 * Detail Screen
-  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/55a14398-f503-43f2-beb0-dffdc68310c1" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/55a14398-f503-43f2-beb0-dffdc68310c1" />
 
 * Favorites Screen
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9358c40b-d00b-49d8-bc49-16e2e86cf29b" />
